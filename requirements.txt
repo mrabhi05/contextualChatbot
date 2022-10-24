@@ -1,0 +1,7 @@
+pip install nltk
+pip install numpy
+pip install tflearn
+# Installing TensorFlow, - Make sure you are using Python 3.6 & 64-bit version
+pip install setuptools==41.0.0
+pip install tensorFlow==1.15
+
